@@ -5,5 +5,5 @@
 
 | Code | Name | Link |
 |---|---|---|
-| 199 | 管综历年真题 | [Link](https://drive.google.com/drive/folders/10q3PusNhi2wFsr7MxJhPsbuadTfRY2uA?usp=sharing) |
+| 199 | 英语历年真题 | [Link](https://drive.google.com/drive/folders/10q3PusNhi2wFsr7MxJhPsbuadTfRY2uA?usp=sharing) |
 | 199 | 管综历年真题 | [Link](https://drive.google.com/drive/folders/1lFM5NsFChCbm7riB2wcuPNitr0CgmOk_?usp=sharing) |
